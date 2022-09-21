@@ -4,7 +4,7 @@
 🏗 Working in Progress (开发中)
 </pre>
 
-> 基于Nuxt 3 + Vue3 + Element Plus 开发
+> 基于Nuxt 3 + Vue3 + Element Plus 开发，使用GPL-3.0协议开源
 
 相关文档 [Nuxt 3文档](https://v3.nuxtjs.org) 和 [Element Plus文档](https://element-plus.org/)
 

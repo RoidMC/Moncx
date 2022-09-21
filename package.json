@@ -1,8 +1,9 @@
 {
-  "name": "RoidMC OFWeb",
+  "name": "RoidMC-OFWeb",
   "packageManager": "pnpm@7.11.0",
   "version": "0.0.1",
   "description": "RoidMC Moncx (Based Nuxt3)",
+  "license": "SEE LICENSE IN <README>",
   "repository": {
     "type": "git",
     "url": "git://github.com/roidmc/moncx"
